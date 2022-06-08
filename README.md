@@ -1,5 +1,6 @@
 # 8 Week SQL Challenge
 Here you can find my SQL Statements to the 8 Week SQL Challenge of Danny
+
 https://8weeksqlchallenge.com/
 
 Danny created 8 case studies with different questions to solve with SQL.
